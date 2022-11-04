@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Controls.FoodCardUI"
+             x:Name="this">
+    <Frame BackgroundColor="#c0a682" Margin="10, 50, 10, 50"
+           HeightRequest="150">
+        <Grid BindingContext="{x:Reference this}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Frame WidthRequest="100" HeightRequest="100"
+                   HorizontalOptions="Start">
+                <Image Source="{Binding FoodImageSource}"
+                       Grid.Row="0"
+                       Grid.Column="0"
+                       WidthRequest="110"
+                       HeightRequest="110"/>
+            </Frame>
+            <StackLayout VerticalOptions="FillAndExpand"
+                                 Grid.Row="0"
+                                 Grid.Column="1">
+                <Label Text="{Binding FoodName}"
+                       TextColor="#645035"
+                       FontSize="20"
+                       HorizontalTextAlignment="Start"
+                       VerticalTextAlignment="Start"
+                       VerticalOptions="FillAndExpand"/>
+                <Label Text="{Binding FoodDesc}"
+                       TextColor="#645035"
+                       FontSize="12"
+                       HorizontalTextAlignment="Start"
+                       VerticalTextAlignment="Center"
+                       VerticalOptions="FillAndExpand"/>
+                <Label Text="{Binding FoodPrice}"
+                       TextColor="#645035"
+                       FontSize="20"
+                       HorizontalTextAlignment="End"
+                       VerticalTextAlignment="End"
+                       VerticalOptions="FillAndExpand"/>
+            </StackLayout>
+        </Grid>
+    </Frame>
+</ContentView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Nav.ColdDrinksPage"
+             xmlns:controls="clr-namespace:ProjectCoffeeV3.Controls"
+             Title="Cold Drinks">
+    <StackLayout VerticalOptions="FillAndExpand">
+        <controls:DrinkCardUI DrinkName="Orange Juice"
+                              DrinkImageSource="orangejuice.jpg"
+                              DrinkPrice="$4.20"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Kombucha"
+                              DrinkImageSource="kombucha.jpg"
+                              DrinkPrice="$5.50"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Sparkling Water"
+                              DrinkImageSource="water.jpg"
+                              DrinkPrice="$2.00"
+                              VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

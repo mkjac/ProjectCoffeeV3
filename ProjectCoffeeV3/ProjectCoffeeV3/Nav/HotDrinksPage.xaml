@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Nav.HotDrinksPage"
+             xmlns:controls="clr-namespace:ProjectCoffeeV3.Controls"
+             Title="Hot Drinks">
+    <StackLayout VerticalOptions="FillAndExpand">
+        <controls:DrinkCardUI DrinkName="Hot Chocolate"
+                              DrinkImageSource="hotchocolate.jpg"
+                              DrinkPrice="$4.00"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Tea"
+                              DrinkImageSource="tea.jpg"
+                              DrinkPrice="$3.80"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Chai Latte"
+                              DrinkImageSource="chailatte.jpg"
+                              DrinkPrice="$4.20"
+                              VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

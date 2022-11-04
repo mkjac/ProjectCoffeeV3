@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Pages.MenuPage"
+             Title="Menu"
+             IconImageSource="home.png">
+    <StackLayout VerticalOptions="FillAndExpand">
+        <Image Source="coffeecup.png" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="160" WidthRequest="160"/>
+        <Label Text="Jules Cafe" FontSize="40" TextColor="White" HorizontalTextAlignment="Center"></Label>
+        <Button VerticalOptions="FillAndExpand" Text="Espresso"
+                Margin="10"
+                FontSize="Large"
+                Clicked="OpenNav"/>
+        <Button VerticalOptions="FillAndExpand" Text="Hot Drinks"
+                Margin="10"
+                FontSize="Large"
+                Clicked="OpenNav"/>
+        <Button VerticalOptions="FillAndExpand" Text="Cold Drinks"
+                Margin="10"
+                FontSize="Large"
+                Clicked="OpenNav"/>
+        <Button VerticalOptions="FillAndExpand" Text="Quick Bites"
+                Margin="10"
+                FontSize="Large"
+                Clicked="OpenNav"/>
+    </StackLayout>
+</ContentPage>

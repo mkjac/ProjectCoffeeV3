@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Nav.EspressoPage"
+             xmlns:controls="clr-namespace:ProjectCoffeeV3.Controls"
+             Title="Espresso">
+    <StackLayout VerticalOptions="FillAndExpand">
+        <controls:DrinkCardUI DrinkName="Mocha"
+                              DrinkImageSource="mocha.jpg"
+                              DrinkPrice="$4.20"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Cappuccino"
+                              DrinkImageSource="cappuccino.jpg"
+                              DrinkPrice="$4.80"
+                              VerticalOptions="FillAndExpand"/>
+        <controls:DrinkCardUI DrinkName="Flat White"
+                              DrinkImageSource="flatwhite.jpg"
+                              DrinkPrice="$5.00"
+                              VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

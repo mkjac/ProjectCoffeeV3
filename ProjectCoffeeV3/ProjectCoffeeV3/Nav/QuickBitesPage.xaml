@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectCoffeeV3.Nav.QuickBitesPage"
+             xmlns:controls="clr-namespace:ProjectCoffeeV3.Controls"
+             Title="Quick Bites">
+    <StackLayout VerticalOptions="FillAndExpand">
+        <controls:FoodCardUI FoodName="Bagel"
+                             FoodImageSource="bagel.png"
+                             FoodDesc="Yummy yummy! This bagel is so tasty"
+                             FoodPrice="$10.00"
+                             VerticalOptions="FillAndExpand"/>
+        <controls:FoodCardUI FoodName="Premium Bagel"
+                             FoodImageSource="bagel2.png"
+                             FoodDesc="Same as the bagel, but so much tastier"
+                             FoodPrice="$12.00"
+                             VerticalOptions="FillAndExpand"/>
+        <controls:FoodCardUI FoodName="Eggs on Toast"
+                             FoodImageSource="eggsontoast.png"
+                             FoodDesc="You gotta crack a few eggs to make a yummy meal"
+                             FoodPrice="$15.00"
+                             VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>
