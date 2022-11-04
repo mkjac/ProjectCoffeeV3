@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WJlJ4VOHlubOmc44aVw//e8TAQS/yGk5losDr64Lb+XoAgs7ODWlD2r4yTQrvHcFonq98fcXx+V0GGdAvZVd2Q==",
+  "dgSpecHash": "TJD6c5PiZ5RJz0KufjBFCLB3otC4tcDddTNnuFOfxq9V5VdC2zTnRkxEJOmNELVd0vxMYUKzdMAq5c5Q/FREEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mkjac\\Documents\\Github Repos\\ProjectCoffeeV3\\ProjectCoffeeV3\\ProjectCoffeeV3\\ProjectCoffeeV3.csproj",
   "expectedPackageFiles": [
@@ -107,6 +107,7 @@
     "C:\\Users\\mkjac\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.7.10\\xamarin.kotlin.stdlib.jdk8.1.7.10.nupkg.sha512",
     "C:\\Users\\mkjac\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.6.4\\xamarin.kotlinx.coroutines.android.1.6.4.nupkg.sha512",
     "C:\\Users\\mkjac\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.6.4\\xamarin.kotlinx.coroutines.core.jvm.1.6.4.nupkg.sha512",
+    "C:\\Users\\mkjac\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.0-rc.2.22472.3\\microsoft.netcore.app.crossgen2.win-x64.7.0.0-rc.2.22472.3.nupkg.sha512",
     "C:\\Users\\mkjac\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.27\\microsoft.windows.sdk.net.ref.10.0.19041.27.nupkg.sha512",
     "C:\\Users\\mkjac\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.0-rc.2.22476.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.0-rc.2.22476.2.nupkg.sha512",
     "C:\\Users\\mkjac\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.0-rc.2.22472.13\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.0-rc.2.22472.13.nupkg.sha512"
@@ -125,6 +126,7 @@
         "net7.0-android33.0/android-x64",
         "net7.0-android33.0/android-x86",
         "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-arm64",
         "net7.0-android33.0/maccatalyst-x64",
         "net7.0-android33.0/win10-x64",
         "net7.0-ios16.0",
@@ -133,6 +135,7 @@
         "net7.0-ios16.0/android-x64",
         "net7.0-ios16.0/android-x86",
         "net7.0-ios16.0/iossimulator-x64",
+        "net7.0-ios16.0/maccatalyst-arm64",
         "net7.0-ios16.0/maccatalyst-x64",
         "net7.0-ios16.0/win10-x64",
         "net7.0-maccatalyst15.4",
@@ -141,6 +144,7 @@
         "net7.0-maccatalyst15.4/android-x64",
         "net7.0-maccatalyst15.4/android-x86",
         "net7.0-maccatalyst15.4/iossimulator-x64",
+        "net7.0-maccatalyst15.4/maccatalyst-arm64",
         "net7.0-maccatalyst15.4/maccatalyst-x64",
         "net7.0-maccatalyst15.4/win10-x64",
         "net7.0-windows10.0.19041",
@@ -149,6 +153,7 @@
         "net7.0-windows10.0.19041/android-x64",
         "net7.0-windows10.0.19041/android-x86",
         "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-arm64",
         "net7.0-windows10.0.19041/maccatalyst-x64",
         "net7.0-windows10.0.19041/win10-x64"
       ]
@@ -166,6 +171,7 @@
         "net7.0-android33.0/android-x64",
         "net7.0-android33.0/android-x86",
         "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-arm64",
         "net7.0-android33.0/maccatalyst-x64",
         "net7.0-android33.0/win10-x64",
         "net7.0-ios16.0",
@@ -174,6 +180,7 @@
         "net7.0-ios16.0/android-x64",
         "net7.0-ios16.0/android-x86",
         "net7.0-ios16.0/iossimulator-x64",
+        "net7.0-ios16.0/maccatalyst-arm64",
         "net7.0-ios16.0/maccatalyst-x64",
         "net7.0-ios16.0/win10-x64",
         "net7.0-maccatalyst15.4",
@@ -182,6 +189,7 @@
         "net7.0-maccatalyst15.4/android-x64",
         "net7.0-maccatalyst15.4/android-x86",
         "net7.0-maccatalyst15.4/iossimulator-x64",
+        "net7.0-maccatalyst15.4/maccatalyst-arm64",
         "net7.0-maccatalyst15.4/maccatalyst-x64",
         "net7.0-maccatalyst15.4/win10-x64",
         "net7.0-windows10.0.19041",
@@ -190,6 +198,7 @@
         "net7.0-windows10.0.19041/android-x64",
         "net7.0-windows10.0.19041/android-x86",
         "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-arm64",
         "net7.0-windows10.0.19041/maccatalyst-x64",
         "net7.0-windows10.0.19041/win10-x64"
       ]
@@ -207,6 +216,7 @@
         "net7.0-android33.0/android-x64",
         "net7.0-android33.0/android-x86",
         "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-arm64",
         "net7.0-android33.0/maccatalyst-x64",
         "net7.0-android33.0/win10-x64",
         "net7.0-ios16.0",
@@ -215,6 +225,7 @@
         "net7.0-ios16.0/android-x64",
         "net7.0-ios16.0/android-x86",
         "net7.0-ios16.0/iossimulator-x64",
+        "net7.0-ios16.0/maccatalyst-arm64",
         "net7.0-ios16.0/maccatalyst-x64",
         "net7.0-ios16.0/win10-x64",
         "net7.0-maccatalyst15.4",
@@ -223,6 +234,7 @@
         "net7.0-maccatalyst15.4/android-x64",
         "net7.0-maccatalyst15.4/android-x86",
         "net7.0-maccatalyst15.4/iossimulator-x64",
+        "net7.0-maccatalyst15.4/maccatalyst-arm64",
         "net7.0-maccatalyst15.4/maccatalyst-x64",
         "net7.0-maccatalyst15.4/win10-x64",
         "net7.0-windows10.0.19041",
@@ -231,6 +243,7 @@
         "net7.0-windows10.0.19041/android-x64",
         "net7.0-windows10.0.19041/android-x86",
         "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-arm64",
         "net7.0-windows10.0.19041/maccatalyst-x64",
         "net7.0-windows10.0.19041/win10-x64"
       ]
@@ -248,6 +261,7 @@
         "net7.0-android33.0/android-x64",
         "net7.0-android33.0/android-x86",
         "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-arm64",
         "net7.0-android33.0/maccatalyst-x64",
         "net7.0-android33.0/win10-x64",
         "net7.0-ios16.0",
@@ -256,6 +270,7 @@
         "net7.0-ios16.0/android-x64",
         "net7.0-ios16.0/android-x86",
         "net7.0-ios16.0/iossimulator-x64",
+        "net7.0-ios16.0/maccatalyst-arm64",
         "net7.0-ios16.0/maccatalyst-x64",
         "net7.0-ios16.0/win10-x64",
         "net7.0-maccatalyst15.4",
@@ -264,6 +279,7 @@
         "net7.0-maccatalyst15.4/android-x64",
         "net7.0-maccatalyst15.4/android-x86",
         "net7.0-maccatalyst15.4/iossimulator-x64",
+        "net7.0-maccatalyst15.4/maccatalyst-arm64",
         "net7.0-maccatalyst15.4/maccatalyst-x64",
         "net7.0-maccatalyst15.4/win10-x64",
         "net7.0-windows10.0.19041",
@@ -272,6 +288,7 @@
         "net7.0-windows10.0.19041/android-x64",
         "net7.0-windows10.0.19041/android-x86",
         "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-arm64",
         "net7.0-windows10.0.19041/maccatalyst-x64",
         "net7.0-windows10.0.19041/win10-x64"
       ]
@@ -289,6 +306,7 @@
         "net7.0-android33.0/android-x64",
         "net7.0-android33.0/android-x86",
         "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-arm64",
         "net7.0-android33.0/maccatalyst-x64",
         "net7.0-android33.0/win10-x64",
         "net7.0-ios16.0",
@@ -297,6 +315,7 @@
         "net7.0-ios16.0/android-x64",
         "net7.0-ios16.0/android-x86",
         "net7.0-ios16.0/iossimulator-x64",
+        "net7.0-ios16.0/maccatalyst-arm64",
         "net7.0-ios16.0/maccatalyst-x64",
         "net7.0-ios16.0/win10-x64",
         "net7.0-maccatalyst15.4",
@@ -305,6 +324,7 @@
         "net7.0-maccatalyst15.4/android-x64",
         "net7.0-maccatalyst15.4/android-x86",
         "net7.0-maccatalyst15.4/iossimulator-x64",
+        "net7.0-maccatalyst15.4/maccatalyst-arm64",
         "net7.0-maccatalyst15.4/maccatalyst-x64",
         "net7.0-maccatalyst15.4/win10-x64",
         "net7.0-windows10.0.19041",
@@ -313,6 +333,7 @@
         "net7.0-windows10.0.19041/android-x64",
         "net7.0-windows10.0.19041/android-x86",
         "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-arm64",
         "net7.0-windows10.0.19041/maccatalyst-x64",
         "net7.0-windows10.0.19041/win10-x64"
       ]
