@@ -109,7 +109,6 @@ StyleCopReport.xml
 *.scc
 *.csproj
 *.csproj.user
-myapp.keystore
 
 # Chutzpah Test files
 _Chutzpah*
