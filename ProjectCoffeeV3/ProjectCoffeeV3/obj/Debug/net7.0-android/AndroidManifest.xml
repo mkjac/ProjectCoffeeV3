@@ -5,14 +5,12 @@
     Changes to this file may cause incorrect behavior and will be lost if
     the contents are regenerated.
     -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" package="project.mel.coffee" android:versionName="1.0.0">
-  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="project.mel.coffee" android:versionCode="1" android:versionName="1">
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:name="crc6452588417ad1e01de.MainApplication" android:label="ProjectCoffeeV3" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:label="Jules Cafe" android:name="crc6452588417ad1e01de.MainApplication" android:debuggable="true" android:extractNativeLibs="true">
     <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAlw35WjFwcFFydMqCjSlY25bLRj0qKl_0" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
     <activity android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:theme="@style/Maui.SplashTheme" android:name="crc6452588417ad1e01de.MainActivity" android:exported="true">
       <intent-filter>
@@ -31,4 +29,5 @@
     <service android:name="crc64396a3fe5f8138e3f.KeepAliveService" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="project.mel.coffee.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
+  <uses-sdk android:minSdkVersion="31" android:targetSdkVersion="33" />
 </manifest>

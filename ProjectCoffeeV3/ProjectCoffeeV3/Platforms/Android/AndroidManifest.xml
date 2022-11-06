@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="project.mel.coffee" android:versionCode="1" android:versionName="1">
-	<application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:label="Jules Cafe"></application>
+	<application android:allowBackup="true" android:icon="@mipmap/appicon" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true" android:label="Jules Cafe">
+		<meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAlw35WjFwcFFydMqCjSlY25bLRj0qKl_0" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
 	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
+	<!-- For targeting v8.3 or greater of the Google Play services SDK -->
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 	<uses-sdk android:minSdkVersion="31" android:targetSdkVersion="31" />
 </manifest>

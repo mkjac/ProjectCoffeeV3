@@ -1,0 +1,3 @@
+C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\bin\Release\net7.0-android\publish\project.mel.coffee-Signed.apk
+C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\bin\Release\net7.0-android\publish\project.mel.coffee.apk
+C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\bin\Release\net7.0-android\publish\project.mel.coffee-Signed.aab

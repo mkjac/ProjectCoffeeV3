@@ -1,5 +1,4 @@
 ﻿using Microsoft.Extensions.Logging;
-using Microsoft.Maui.Controls.Hosting;
 
 namespace ProjectCoffeeV3;
 
@@ -10,13 +9,13 @@ public static class MauiProgram
         var builder = MauiApp.CreateBuilder();
         builder
             .UseMauiApp<App>()
-            .UseMauiMaps()
             .ConfigureFonts(fonts =>
             {
                 fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 fonts.AddFont("TeacupHand-Regular.ttf", "TeacupFont");
-            });
+            })
+            .UseMauiMaps();
 
 #if DEBUG
         builder.Logging.AddDebug();

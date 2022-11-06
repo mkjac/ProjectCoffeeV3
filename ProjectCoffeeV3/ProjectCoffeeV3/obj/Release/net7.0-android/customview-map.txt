@@ -1,9 +1,9 @@
-@string/appbar_scrolling_view_behavior;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\layout\fragment_backstack.xml
-@string/appbar_scrolling_view_behavior;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\layout\navigationlayout.xml
 {urn:oasis:names:tc:xliff:document:1.2}g;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 {urn:oasis:names:tc:xliff:document:1.2}g;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
-adaptive-icon;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
+@string/appbar_scrolling_view_behavior;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\layout\fragment_backstack.xml
+@string/appbar_scrolling_view_behavior;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\layout\navigationlayout.xml
 adaptive-icon;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
+adaptive-icon;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 alpha;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\157\jl\res\anim\enterfromleft.xml
 alpha;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\157\jl\res\anim\exittoleft.xml
 alpha;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\anim\nav_default_enter_anim.xml
@@ -19,8 +19,8 @@ attr;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Proje
 attr;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\attr.xml
 attr;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 attr;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\167\jl\res\values\values.xml
-background;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 background;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
+background;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 bitmap;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_normal.xml
 bitmap;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_disabled.xml
 bitmap;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light_normal.xml
@@ -44,7 +44,6 @@ declare-styleable;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectC
 declare-styleable;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\attr.xml
 declare-styleable;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 declare-styleable;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\167\jl\res\values\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-af\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-am\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-ar\values.xml
@@ -61,14 +60,14 @@ eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-de\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-el\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-en-rGB\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es-rUS\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-et\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-eu\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fa\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fi\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr-rCA\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gl\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gu\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-hi\values.xml
@@ -125,7 +124,7 @@ eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rHK\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rTW\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zu\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-af\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-am\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-ar\values.xml
@@ -142,14 +141,14 @@ eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-de\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-el\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-en-rGB\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es-rUS\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-et\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-eu\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fa\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fi\values.xml
-eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr-rCA\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gl\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gu\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-hi\values.xml
@@ -206,34 +205,35 @@ eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rHK\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rTW\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zu\values.xml
+eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
 eat-comment;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\167\jl\res\values\values.xml
 enum;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 enum;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\167\jl\res\values\values.xml
 external-cache-path;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
 external-path;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\162\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
-foreground;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 foreground;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
+foreground;obj\Release\net7.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 integer;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\158\jl\res\values\styles.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\drawable\maui_splash.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\styles.xml
-item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_focused.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_normal.xml
+item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_disabled.xml
-item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light_focused.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light_normal.xml
-item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_dark.xml
+item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_dark_focused.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_dark_normal.xml
+item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_dark.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_disabled.xml
-item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_light.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_light_focused.xml
 item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_light_normal.xml
+item;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_light.xml
 item;obj\Release\net7.0-android\res\resources\drawable\maui_splash_image.xml
-layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\drawable\maui_splash.xml
 layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\drawable\maui_splash_image.xml
+layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\drawable\maui_splash.xml
 layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_focused.xml
 layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_normal.xml
 layer-list;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_disabled.xml
@@ -256,7 +256,6 @@ resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\attr.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\colors.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\161\jl\res\values\styles.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-af\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-am\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-ar\values.xml
@@ -273,14 +272,14 @@ resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-de\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-el\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-en-rGB\values.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es-rUS\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-et\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-eu\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fa\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fi\values.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr-rCA\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gl\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gu\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-hi\values.xml
@@ -337,7 +336,7 @@ resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rHK\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rTW\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zu\values.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-af\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-am\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-ar\values.xml
@@ -354,14 +353,14 @@ resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-de\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-el\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-en-rGB\values.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es-rUS\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-et\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-eu\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fa\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fi\values.xml
-resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr-rCA\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gl\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gu\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-hi\values.xml
@@ -418,6 +417,7 @@ resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rHK\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rTW\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zu\values.xml
+resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
 resources;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\167\jl\res\values\values.xml
 resources;obj\Release\net7.0-android\res\resources\values\maui_colors.xml
 resources;obj\Release\net7.0-android\res\values\colors.xml
@@ -447,7 +447,6 @@ solid;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Proj
 solid;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_light_focused.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\157\jl\res\values\strings.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\160\jl\res\values\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-af\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-am\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-ar\values.xml
@@ -464,14 +463,14 @@ string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Pro
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-de\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-el\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-en-rGB\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es-rUS\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-es\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-et\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-eu\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fa\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fi\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr-rCA\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-fr\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gl\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-gu\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-hi\values.xml
@@ -528,7 +527,7 @@ string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Pro
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rHK\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zh-rTW\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values-zu\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\values\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-af\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-am\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-ar\values.xml
@@ -545,14 +544,14 @@ string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Pro
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-de\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-el\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-en-rGB\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es-rUS\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-es\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-et\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-eu\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fa\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fi\values.xml
-string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr-rCA\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-fr\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gl\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-gu\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-hi\values.xml
@@ -609,6 +608,7 @@ string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\Pro
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rHK\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zh-rTW\values.xml
 string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values-zu\values.xml
+string;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\166\jl\res\values\values.xml
 stroke;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_dark_focused.xml
 stroke;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_icon_light_focused.xml
 stroke;C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-android\lp\165\jl\res\drawable\common_google_signin_btn_text_dark_focused.xml

@@ -2,7 +2,9 @@
 <ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProjectCoffeeV3.Controls.FoodCardUI"
-             x:Name="this">
+             x:Name="this"
+             xmlns:local="clr-namespace:ProjectCoffeeV3.Controls"
+             x:DataType="local:FoodCardUI">
     <Frame BackgroundColor="#c0a682" Margin="10, 50, 10, 50"
            HeightRequest="150">
         <Grid BindingContext="{x:Reference this}">

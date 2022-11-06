@@ -24,7 +24,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0-android",
+          "net7.0-android33.0",
           "net7.0-ios",
           "net7.0-maccatalyst",
           "net7.0-windows10.0.19041.0"
@@ -36,7 +36,7 @@
         },
         "frameworks": {
           "net7.0-android33.0": {
-            "targetAlias": "net7.0-android",
+            "targetAlias": "net7.0-android33.0",
             "projectReferences": {}
           },
           "net7.0-ios16.0": {
@@ -60,7 +60,7 @@
       },
       "frameworks": {
         "net7.0-android33.0": {
-          "targetAlias": "net7.0-android",
+          "targetAlias": "net7.0-android33.0",
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -386,10 +386,6 @@
               "version": "[7.0.0-rc.2.22476.2, 7.0.0-rc.2.22476.2]"
             },
             {
-              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[7.0.0-rc.2.22472.3, 7.0.0-rc.2.22472.3]"
-            },
-            {
               "name": "Microsoft.Windows.SDK.NET.Ref",
               "version": "[10.0.19041.27, 10.0.19041.27]"
             },
@@ -431,10 +427,7 @@
         "android-x86": {
           "#import": []
         },
-        "iossimulator-x64": {
-          "#import": []
-        },
-        "maccatalyst-arm64": {
+        "ios-arm64": {
           "#import": []
         },
         "maccatalyst-x64": {

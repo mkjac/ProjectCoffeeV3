@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\about.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\bagel.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\bagel2.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\cafe.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\cappuccino.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\chailatte.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\coffeecup.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\eggsontoast.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\facebook.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\flatwhite.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\home.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\hotchocolate.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\instagram.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\kombucha.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\logo.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\map.png" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\mocha.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\orangejuice.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\tea.jpg" />
+    <BundleResource Include="C:\Users\mkjac\Documents\Github Repos\ProjectCoffeeV3\ProjectCoffeeV3\ProjectCoffeeV3\obj\Release\net7.0-maccatalyst\resizetizer\r\Resources\water.jpg" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+    <BundleResource Include="obj\Release\net7.0-maccatalyst\resizetizer\f\TeacupHand-Regular.ttf" />
+  </ItemGroup>
+</Project>
